@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dante Carheel - Professional Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dante Carheel</h1>
+        <p>Sport Management Professional | Leadership Enthusiast | Diversity Advocate</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Welcome</h2>
+        <p>Welcome to my professional portfolio. Here you can learn more about my background, experience, and skills.</p>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a Texas A&M University-Commerce Alumni student athlete, seeking higher education and employment while continuing my athletic journey. I have a diverse background in STEM through Sport & Entertainment and I am passionate about exploring diversity, inclusion, & equity through International Sport & Entertainment.</p>
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <h3>Concierge, Onni Group of Companies, Los Angeles, CA (2023-2024)</h3>
+        <ul>
+            <li>Planned and brainstormed resident events with Concierge, Resident Services, and Property Management.</li>
+            <li>Assisted with phone calls and emails from residents and guests in a timely manner.</li>
+            <li>Communicated daily and upcoming events between departments.</li>
+            <li>Diffused conflict or tense situations with residents, prospects, and guests.</li>
+            <li>Provided administrative duties as needed.</li>
+        </ul>
+        <h3>Premium Services, LA Clippers, Los Angeles, CA (2022-2023)</h3>
+        <ul>
+            <li>Delivered exceptional customer service and provided a premium experience in club areas during Clippers home games.</li>
+            <li>Represented the Clippers brand with enthusiasm, professionalism, and friendliness.</li>
+        </ul>
+        <h3>Ticket Seller, SoFi Stadium & Hollywood Park, Los Angeles, CA (2022-2023)</h3>
+        <ul>
+            <li>Collaborated to provide quality customer service and support to supervisory and management staff.</li>
+            <li>Assisted guests with selecting and purchasing tickets and provided accurate event information.</li>
+        </ul>
+        <h3>Premium Ambassador, LA Dodgers, Los Angeles, CA (2022-2023)</h3>
+        <ul>
+            <li>Assisted and controlled access to premium clubs and suites.</li>
+            <li>Provided in-game amenities and customer service to premium clients.</li>
+            <li>Served as a liaison between premium clients, various departments, and external partners.</li>
+        </ul>
+        <h3>Lion Athletics, Commerce, TX (2017-2021)</h3>
+        <ul>
+            <li>Assisted Asst. Athletic Director in marketing efforts to increase ticket sales.</li>
+            <li>Proactively engaged in local and regional group meetings and organizations.</li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Account Management</li>
+            <li>Project Management</li>
+            <li>Diplomacy Skills</li>
+            <li>Interpersonal Skills</li>
+            <li>Research and Analysis</li>
+            <li>Organizational & Reporting</li>
+            <li>Social Media, Microsoft skills</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:carheeldante@gmail.com">carheeldante@gmail.com</a></p>
+        <p>Phone: 0418-341-709</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Dante Carheel. All rights reserved.</p>
+    </footer>
+</body>
+</html>
